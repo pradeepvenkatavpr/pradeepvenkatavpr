@@ -362,7 +362,7 @@ Incident Response and Continuous Improvement
 
 ### Python Flask • React • MongoDB • AWS EC2 • AWS S3
 
-**Academic Project | Jan 2023 – Apr 2023**
+**Master's Project**
 
 - Developed a full-stack Employee Management System using Python Flask, React, and MongoDB.
 - Built application functionality to track employee contributions, rewards, and performance.
